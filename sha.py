@@ -1,7 +1,7 @@
 import hashlib
 
-s1 = input("Enter string: ")
-s2 = input("Enter string: ")
+s1 = input("Enter string 1: ")
+s2 = input("Enter string 2: ")
 
 h1 = hashlib.sha256(s1.encode()).hexdigest()
 h2 = hashlib.sha256(s2.encode()).hexdigest()
