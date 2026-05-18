@@ -6,7 +6,7 @@ destination = input("Enter destination filename: ")
 src = os.open(source,os.O_RDONLY)
 dest = os.open(destination,os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o644)
 
-data = os.read(src,1024)        
+data = os.read(src,1024)   #buffer_size=1024     
 os.write(dest, data)
 
 os.close(src)
