@@ -5,7 +5,7 @@ Educational lab programs demonstrating classical ciphers and simple cryptographi
 ## Overview
 
 This repository contains short, interactive CLI demos used for learning basic information security concepts:
-- Classical ciphers (Caesar, Affine, Hill, Vigenère)
+- Classical ciphers (Caesar, Affine, Hill, Vigenere)
 - SHA-256 hashing comparison demo
 - Basic RSA key generation, encryption/decryption and signing (demonstration only)
 - Simple shell utilities and a file copy example
