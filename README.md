@@ -1,4 +1,4 @@
-# is_lab — Information Security Lab programs
+# is_lab — Information Security Lab programs 🔐
 
 Educational lab programs demonstrating classical ciphers and simple cryptographic concepts.
 
@@ -59,10 +59,9 @@ chmod +x shell/*.sh
 ./shell/userlogin.sh
 ```
 
-## Security disclaimer
+## Security disclaimer 🔒
 
 These are demonstration programs for learning. They:
 - Use small/insecure key sizes in many examples (for teaching)
 - Are interactive and not hardened for production
 - Should not be used to encrypt or sign any real or sensitive data
-
