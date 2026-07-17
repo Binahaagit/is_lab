@@ -1,2 +1,2 @@
 # is_lab
-lab pgms!👩🏻‍💻
+lab pgms👩🏻‍💻
